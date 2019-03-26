@@ -9,5 +9,5 @@
 #import <ScreenSaver/ScreenSaver.h>
 
 @interface DeveloperExcusesView : ScreenSaverView
-
+    
 @end
